@@ -2,34 +2,30 @@
 
 ## How to read a paper: 
 
-- Paper Reading Check List, https://cs.uwaterloo.ca/~brecht/courses/Perf-Eval-Shared/readings/jamin-checklist.html, Sugih Jamin, jamin@eecs.umich.edu. 
+- [Paper Reading Check List](https://www.ece.uvic.ca/~cai/checklist.html), Sugih Jamin, jamin@eecs.umich.edu. 
 
-- How to Read a Research Paper, https://cs.uwaterloo.ca/~brecht/courses/Perf-Eval-Shared/readings/how-to-read.txt, by Spencer Rugaber 
+- [How to Read a Research Paper](https://sites.cc.gatech.edu/fac/Spencer.Rugaber/txt/researchPaper.html), by Spencer Rugaber 
 
-- Efficient Reading of Papers in Science and Technology, https://cs.uwaterloo.ca/~brecht/courses/Perf-Eval-Shared/readings/efficient-reading-dylan.pdf, Prepared by Michael J. Hanson, Updated by Dylan J. McNamee, January 6, 2000. 
+- [Efficient Reading of Papers in Science and Technology](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf), Prepared by Michael J. Hanson, Updated by Dylan J. McNamee, January 6, 2000. 
 
-- How to Read a Paper, https://cs.uwaterloo.ca/~brecht/courses/Perf-Eval-Shared/readings/keshav-paper-reading.pdf, S. Keshav, ACM SIGCOMM Computer Communication Review, Volume 37, Number 3, July 2007. 
+- [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf), S. Keshav, ACM SIGCOMM Computer Communication Review, Volume 37, Number 3, July 2007. 
 
 
 ## How to write paper
  
-- https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html 
+- [How to write a technical paper or a research paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), by Michael Ernst, UWashington.
 
 ## How to prepare Rebuttal: 
 
-- https://www.st.cs.uni-saarland.de/zeller/onresearch/rebuttal-patterns.php3 
+- [Patterns for writing good rebuttals by Andreas Zeller](https://andreas-zeller.info/2012/10/01/patterns-for-writing-good-rebuttals.html)
 
  
 
-What is the typical workflow: 
+## Publications:
 
-publications - What does the typical workflow of a journal look like? - Academia Stack Exchange 
+- [What does the typical workflow of a journal look like? - Academia Stack Exchange](https://academia.stackexchange.com/a/55666)
 
- 
-
-Impact factor of SE publication: 
-
-https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems 
+- [Impact factor of SE publication](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems) 
 
  
 
