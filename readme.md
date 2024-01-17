@@ -30,6 +30,7 @@ Mendeley or Zotero are good tools for literature management.
 ### Guide: 
 - [How to write a technical paper or a research paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), by Michael Ernst, UWashington.
 - [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+- [GUIDELINES FOR WRITING SCIENTIFIC PAPERS IN CSE STYLE](https://crk.umn.edu/writing-center/guidelines-writing-scientific-papers-cse-style)
 - https://github.com/uw-pluverse/pluverse-latex-style-guide: A good guide for latex users in academic writing
 
 
