@@ -50,7 +50,8 @@ Mendeley or Zotero are good tools for literature management.
 - https://www.visual-paradigm.com/, free  
 - https://learnui.design/tools/data-color-picker.html, pick colors  
 - https://colorbrewer2.org/: select a better color scheme for figures 
-- https://excalidraw.com/ a good website to draw flow chart 
+- https://excalidraw.com/ a good website to draw flow chart
+- https://github.com/synercys/annotated_latex_equations add annotation for latex equation
   
 ### Others
 - TexStudio: a famous tool for writing latex 
