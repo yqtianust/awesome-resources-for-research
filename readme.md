@@ -95,12 +95,14 @@ Good examples of artifacts (clear claims, clear instructions, and clear checklis
 
 - https://csguides.github.io/grad-job-guide/
 - https://csfaculty.github.io
-
+- [The CS Assistant Professor Handbook](https://vijay03.github.io/asstprofbook/)
+  
 ### Some websites with job announcement
 - https://academicjobsonline.org
 - https://cra.org/ads/
 - https://academicjobsonline.org/ajo
 - SE World, a mailing list by ACM SIGSOFT
+- https://cscan-infocan.ca/jobs/
 
 
 ## Extra
