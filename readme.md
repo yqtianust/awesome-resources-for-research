@@ -89,7 +89,7 @@ Good examples of artifacts (clear claims, clear instructions, and clear checklis
 ## Proposals
 
 - [How to write a great research proposal](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
-
+- [Tips for Authoring Grant Proposals](https://pages.cs.wisc.edu/~markhill/grant-tips.html)
 
 ## Jobs
 
