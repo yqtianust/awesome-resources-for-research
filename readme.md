@@ -96,6 +96,8 @@ Good examples of artifacts (clear claims, clear instructions, and clear checklis
 - https://csguides.github.io/grad-job-guide/
 - https://csfaculty.github.io
 - [The CS Assistant Professor Handbook](https://vijay03.github.io/asstprofbook/)
+- [Tips for Computer Science Faculty Applications](https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc)
+- [The Strategy Space](https://www.kiragoldner.com/blog/index.html)
   
 ### Some websites with job announcement
 - https://academicjobsonline.org
