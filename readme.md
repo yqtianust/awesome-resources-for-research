@@ -2,6 +2,10 @@
 
 Hope these resources are helpful for your academic journey, especially for Ph.D. students. 
 
+## Guide for pre-PhD
+
+- [Should you really do PhD?](https://www.aamircheema.com/PhD-guide.php#doingPhD)
+
 
 ## Finding and organizing papers:
 
@@ -90,6 +94,7 @@ Good examples of artifacts (clear claims, clear instructions, and clear checklis
 
 - [How to write a great research proposal](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 - [Tips for Authoring Grant Proposals](https://pages.cs.wisc.edu/~markhill/grant-tips.html)
+- [AI for Grant writing](https://github.com/eseckel/ai-for-grant-writing)
 
 ## Jobs
 
