@@ -96,6 +96,10 @@ Good examples of artifacts (clear claims, clear instructions, and clear checklis
 - [Tips for Authoring Grant Proposals](https://pages.cs.wisc.edu/~markhill/grant-tips.html)
 - [AI for Grant writing](https://github.com/eseckel/ai-for-grant-writing)
 
+## Schedule a meeting
+- https://doodle.com/en/
+- https://www.when2meet.com
+
 ## Jobs
 
 - https://csguides.github.io/grad-job-guide/
@@ -108,7 +112,7 @@ Good examples of artifacts (clear claims, clear instructions, and clear checklis
 - https://academicjobsonline.org
 - https://cra.org/ads/
 - https://academicjobsonline.org/ajo
-- SE World, a mailing list by ACM SIGSOFT
+- SE World, a mailing list by ACM SIGSOFT, https://www.sigsoft.org/resources/seworld.html
 - https://cscan-infocan.ca/jobs/
 
 
